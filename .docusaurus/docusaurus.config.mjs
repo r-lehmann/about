@@ -10,10 +10,11 @@ export default {
   "url": "https://r-lehmann.github.io",
   "baseUrl": "/about/",
   "organizationName": "r-lehmann",
-  "projectName": "about",
+  "projectName": "r-lehmann.github.io",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "trailingSlash": true,
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
