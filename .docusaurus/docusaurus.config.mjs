@@ -8,13 +8,13 @@ export default {
   "tagline": "Write for coders and code for writers",
   "favicon": "/static/img/favicon.png",
   "url": "https://r-lehmann.github.io",
-  "baseUrl": "/about/",
+  "baseUrl": "/",
   "organizationName": "r-lehmann",
   "projectName": "r-lehmann.github.io",
+  "trailingSlash": false,
+  "deploymentBranch": "main",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "trailingSlash": true,
-  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

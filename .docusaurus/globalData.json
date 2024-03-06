@@ -1,23 +1,23 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/about/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/about/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/about/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "writing-samples",
-              "path": "/about/docs/writing-samples",
+              "path": "/docs/writing-samples",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -25,7 +25,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/about/docs/intro",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             }

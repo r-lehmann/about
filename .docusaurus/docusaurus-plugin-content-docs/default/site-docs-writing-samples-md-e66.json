@@ -5,7 +5,7 @@
   "source": "@site/docs/writing-samples.md",
   "sourceDirName": ".",
   "slug": "/writing-samples",
-  "permalink": "/about/docs/writing-samples",
+  "permalink": "/docs/writing-samples",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/r-lehmann/about/docs/writing-samples.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Intro",
-    "permalink": "/about/docs/intro"
+    "permalink": "/docs/intro"
   }
 }

@@ -3,26 +3,26 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/about/docs/',
-    component: ComponentCreator('/about/docs/', '39c'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '2b9'),
     routes: [
       {
-        path: '/about/docs/',
-        component: ComponentCreator('/about/docs/', 'fff'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '3df'),
         routes: [
           {
-            path: '/about/docs/',
-            component: ComponentCreator('/about/docs/', '583'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '586'),
             routes: [
               {
-                path: '/about/docs/intro/',
-                component: ComponentCreator('/about/docs/intro/', 'a8a'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/docs/writing-samples/',
-                component: ComponentCreator('/about/docs/writing-samples/', '12d'),
+                path: '/docs/writing-samples',
+                component: ComponentCreator('/docs/writing-samples', 'e3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -33,8 +33,8 @@ export default [
     ]
   },
   {
-    path: '/about/',
-    component: ComponentCreator('/about/', '2eb'),
+    path: '/',
+    component: ComponentCreator('/', 'a9e'),
     exact: true
   },
   {
