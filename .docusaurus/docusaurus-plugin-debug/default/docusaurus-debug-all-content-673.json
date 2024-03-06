@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/about/docs",
-          "tagsPath": "/about/docs/tags",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/r-lehmann/about/docs",
           "editUrlLocalized": "https://github.com/r-lehmann/about/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -26,7 +26,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/about/docs/intro",
+              "permalink": "/docs/intro",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/r-lehmann/about/docs/intro.md",
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Writing samples",
-                "permalink": "/about/docs/writing-samples"
+                "permalink": "/docs/writing-samples"
               }
             },
             {
@@ -49,7 +49,7 @@
               "source": "@site/docs/writing-samples.md",
               "sourceDirName": ".",
               "slug": "/writing-samples",
-              "permalink": "/about/docs/writing-samples",
+              "permalink": "/docs/writing-samples",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/r-lehmann/about/docs/writing-samples.md",
@@ -62,7 +62,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Intro",
-                "permalink": "/about/docs/intro"
+                "permalink": "/docs/intro"
               }
             }
           ],
@@ -89,7 +89,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/about/blog/tags",
+      "blogTagsListPath": "/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -97,19 +97,8 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/about/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "mdx",
-        "permalink": "/about/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
-        "frontMatter": {
-          "title": "Markdown page example"
-        },
-        "unlisted": false
       }
     ]
   },

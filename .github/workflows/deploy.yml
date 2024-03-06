@@ -22,6 +22,7 @@ jobs:
         with:
           node-version: 18
           cache: yarn
+          path: ./node_modules/uri-js/yarn.lock
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
@@ -43,4 +44,3 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: r-lehmann
           user_email: ryanlehmann@gmail.com
-          
