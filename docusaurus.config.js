@@ -23,6 +23,7 @@ const config = {
   organizationName: 'r-lehmann', // Usually your GitHub org/user name.
   projectName: 'r-lehmann.github.io', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: "main",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
