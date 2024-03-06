@@ -1,0 +1,23 @@
+{
+  "id": "intro copy",
+  "title": "Intro",
+  "description": "Welcome to my portfolio site! I'm a technical writer with more than 15 years experience writing highly technical software documentation and leading technical writing teams.",
+  "source": "@site/docs/intro copy.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy",
+  "permalink": "/docs/intro copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/r-lehmann/about/docs/intro copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Intro",
+    "permalink": "/docs/intro"
+  }
+}
