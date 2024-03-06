@@ -13,6 +13,7 @@ export default {
   "projectName": "about",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
+  "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
     "locales": [
