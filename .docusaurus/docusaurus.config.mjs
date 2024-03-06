@@ -8,7 +8,7 @@ export default {
   "tagline": "Write for coders and code for writers",
   "favicon": "/static/img/favicon.png",
   "url": "https://r-lehmann.github.io",
-  "baseUrl": "/about/",
+  "baseUrl": "/",
   "organizationName": "r-lehmann",
   "projectName": "about",
   "onBrokenLinks": "throw",
