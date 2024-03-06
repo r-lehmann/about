@@ -3,31 +3,26 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/about/markdown-page',
-    component: ComponentCreator('/about/markdown-page', 'fa8'),
-    exact: true
-  },
-  {
-    path: '/about/docs',
-    component: ComponentCreator('/about/docs', 'a3d'),
+    path: '/about/docs/',
+    component: ComponentCreator('/about/docs/', '39c'),
     routes: [
       {
-        path: '/about/docs',
-        component: ComponentCreator('/about/docs', 'df2'),
+        path: '/about/docs/',
+        component: ComponentCreator('/about/docs/', 'fff'),
         routes: [
           {
-            path: '/about/docs',
-            component: ComponentCreator('/about/docs', '690'),
+            path: '/about/docs/',
+            component: ComponentCreator('/about/docs/', '583'),
             routes: [
               {
-                path: '/about/docs/intro',
-                component: ComponentCreator('/about/docs/intro', 'd90'),
+                path: '/about/docs/intro/',
+                component: ComponentCreator('/about/docs/intro/', 'a8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/docs/writing-samples',
-                component: ComponentCreator('/about/docs/writing-samples', '166'),
+                path: '/about/docs/writing-samples/',
+                component: ComponentCreator('/about/docs/writing-samples/', '12d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
