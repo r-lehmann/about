@@ -12,14 +12,14 @@
       {
         "type": "link",
         "label": "Intro",
-        "href": "/docs/intro",
+        "href": "/about/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Writing samples",
-        "href": "/docs/writing-samples",
+        "href": "/about/docs/writing-samples",
         "docId": "writing-samples",
         "unlisted": false
       }

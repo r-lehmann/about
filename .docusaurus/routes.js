@@ -3,66 +3,66 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '8e8'),
+    path: '/about/__docusaurus/debug',
+    component: ComponentCreator('/about/__docusaurus/debug', 'b0d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'ed8'),
+    path: '/about/__docusaurus/debug/config',
+    component: ComponentCreator('/about/__docusaurus/debug/config', '8a6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '048'),
+    path: '/about/__docusaurus/debug/content',
+    component: ComponentCreator('/about/__docusaurus/debug/content', '4b8'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '425'),
+    path: '/about/__docusaurus/debug/globalData',
+    component: ComponentCreator('/about/__docusaurus/debug/globalData', '0ca'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '22a'),
+    path: '/about/__docusaurus/debug/metadata',
+    component: ComponentCreator('/about/__docusaurus/debug/metadata', '84f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '0fb'),
+    path: '/about/__docusaurus/debug/registry',
+    component: ComponentCreator('/about/__docusaurus/debug/registry', '372'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '0bd'),
+    path: '/about/__docusaurus/debug/routes',
+    component: ComponentCreator('/about/__docusaurus/debug/routes', '200'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '69d'),
+    path: '/about/markdown-page',
+    component: ComponentCreator('/about/markdown-page', 'fa8'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '2b9'),
+    path: '/about/docs',
+    component: ComponentCreator('/about/docs', 'a3d'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '3df'),
+        path: '/about/docs',
+        component: ComponentCreator('/about/docs', 'df2'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '586'),
+            path: '/about/docs',
+            component: ComponentCreator('/about/docs', '690'),
             routes: [
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                path: '/about/docs/intro',
+                component: ComponentCreator('/about/docs/intro', 'd90'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/writing-samples',
-                component: ComponentCreator('/docs/writing-samples', 'e3d'),
+                path: '/about/docs/writing-samples',
+                component: ComponentCreator('/about/docs/writing-samples', '166'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -73,8 +73,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'a9e'),
+    path: '/about/',
+    component: ComponentCreator('/about/', '2eb'),
     exact: true
   },
   {
