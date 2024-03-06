@@ -6,7 +6,7 @@ const FeatureList = [
   {
     title: 'Writing',
     URL: '/docs/intro',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/pencil-icon.svg').default,
     description: (
       <>
         I'm a writer first. I plan, write, edit, and curate technical documentation. 
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Coding',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/code-icon.svg').default,
     description: (
       <>
         With a Computer Science background, I really like diving into code from time to time,
@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Leadership',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/speaking-bubbles-b-icon.svg').default,
     description: (
       <>
         I like helping others succeed. It's not about fancy titles. I keep moving into leadership roles because I do a great job and treat others well along the way.
