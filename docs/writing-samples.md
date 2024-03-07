@@ -22,7 +22,7 @@ My most current work is on the [Kameleoon Developer Documentation](https://devel
 
 **Summary of my contributions**: 
 
-I'm currently working on revamping and rewriting a lot of legacy content. But those two pages are mostly completely new content that I've created from scratch.  The homepage is an example of the care I put into page design and the feature experimentation demonstrates the importance I place on getting developers to sucessfully build code as early on in their experience as possible.
+I'm currently working on revamping and rewriting a lot of legacy content. But those two pages are new content that I've created from scratch. The homepage is an example of the care I put into page design and the feature experimentation demonstrates the importance I place on getting developers to sucessfully build code as early on in their experience as possible.
 
 
 ## Sample 2: Immersive Stream for XR from Google Cloud
@@ -42,4 +42,3 @@ These docs have been updated since I last worked on them, but the [Quickstart](h
 ## Sample 3: This website
 
 You can consider this whole site to be a writing sample (if a little informal). I built this site in [Docusaurus](https://docusaurus.io/), a static-site generator created by Meta (Facebook). I put it together in one day as if it were a new documentation project to demonstrate my technical compentency with Git, Markdown, and docs-as-code models. I'll try to keep adding to it over time. 
-
