@@ -28,8 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/r-lehmann/about"
+          "sidebarPath": "./sidebars.js"
         },
         "blog": {
           "showReadingTime": true

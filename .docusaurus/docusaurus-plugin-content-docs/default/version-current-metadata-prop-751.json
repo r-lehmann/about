@@ -29,13 +29,13 @@
     "intro": {
       "id": "intro",
       "title": "Intro",
-      "description": "Welcome to my portfolio site! I'm a technical writer with more than 15 years experience writing highly technical software documentation and leading technical writing teams.",
+      "description": "Welcome to my site! I'm a technical writer with more than 15 years of experience writing highly technical software documentation and leading technical writing teams.",
       "sidebar": "tutorialSidebar"
     },
     "writing-samples": {
       "id": "writing-samples",
       "title": "Writing samples",
-      "description": "Here a few of my writing samples.",
+      "description": "Here a few examples of technical writing projects that I've worked on.",
       "sidebar": "tutorialSidebar"
     }
   }
