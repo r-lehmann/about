@@ -7,7 +7,7 @@ sidebar_position: 1
 Here a few examples of technical writing projects that I've worked on.
 
 :::note
-Unfortunately, you won't find any work from my time on [Google Stadia](https://stadia.google.com/gg/). It was a incredibly fun project, and I'm very proud of a lot of the work I did there. However, the Stadia documentation was never made public, so I can't share it. Similarly, the work I did at Dematic was incredibly impactful to the organization, but as I worked on internal documentation and training, I can't share that either. 
+Unfortunately, you won't find any work from my time on [Google Stadia](https://stadia.google.com/gg/). It was a incredibly fun project, and I'm very proud of a lot of the work I did there. However, the Stadia documentation was never made public, so I can't share it. Similarly, the work I did at Dematic was very impactful to the organization, but as I worked on internal documentation and training, I can't share that either. I worked on some pretty cool stuff at BlackBerry, but that's a long time ago now.
 :::
 
 ## Sample 1: Kameleoon developer docs
@@ -25,9 +25,10 @@ My most current work is on the [Kameleoon Developer Documentation](https://devel
 **Screenshot**:
 ![Kameleoon dev docs](./images/kam.png)
 
+
 ## Sample 2: Immersive Stream for XR (Google)
 
-**Audience**: AR/VR experience developers 
+**Audience**: AR/VR developers 
 
 **Pages**: 
 * [Quickstart](https://cloud.google.com/immersive-stream/xr/docs/quickstart) 
@@ -42,7 +43,7 @@ These docs have been updated since I last worked on them, but the [Quickstart](h
 **Screenshot:**
 ![Immersive Stream](./images/goog.png)
 
-## Sample 3: This website. 
+## Sample 3: This website
 
 You can consider this whole site to be a writing sample (if a little informal). I built this site in [Docusaurus](https://docusaurus.io/), a static-site generator created by Meta (Facebook). I put it together in one day as if it were a new documentation project to demonstrate my technical compentency with Git, Markdown, and docs-as-code models. I'll try to keep adding to it over time. 
 
