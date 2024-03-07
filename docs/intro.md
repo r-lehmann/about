@@ -10,7 +10,7 @@ Welcome to my site! I'm a technical writer with more than 15 years of experience
 
 After high school, I had no intention of becoming a writer. None. I started out at Queen's University as a Physics major. However, I was was soon drawn into the world of coding, neural networks, and finite-state automata. Coding was fun, but it was the math and learning how computers worked that I really loved. I always liked writing, and I was pretty good at it, so I took a few writing classes along the way too.
 
-It wasn't until I started getting close to graduation and looking at jobs that I stumbled upon a role called Technical Writer, and thought, "that might be fun". Nearly twenty years later, I still love what I do. I've created documentation to help developers create the smartphone apps at BlackBerry, helped engineers build fully automated warehouses at Dematic, and helped game developers stream interactive video games and AR/VR streams at 4K at Google. 
+It wasn't until I started getting close to graduation and looking at jobs that I stumbled upon a role called Technical Writer, and thought, "that might be fun". Nearly twenty years later, I still love what I do. I've created documentation to help developers create smartphone apps at BlackBerry, helped engineers build fully automated warehouses at Dematic, and helped game developers stream interactive video games and AR/VR streams at 4K at Google. 
 
 
 ## Education
