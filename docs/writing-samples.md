@@ -22,9 +22,6 @@ My most current work is on the [Kameleoon Developer Documentation](https://devel
 
 **Summary of my contributions**:  I'm currently working on revamping and rewriting a lot of legacy content. But those two pages are mostly completely new content that I've created from scratch.  The homepage is an example of the care I put into page design and the feature experimentation demonstrates the importance I place on getting developers to sucessfully build code as early on in their experience as possible.
 
-**Screenshot**:
-![Kameleoon dev docs](./images/kam.png)
-
 
 ## Sample 2: Immersive Stream for XR (Google)
 
@@ -39,9 +36,6 @@ My most current work is on the [Kameleoon Developer Documentation](https://devel
 This project was built by the Google Cloud team in collaboration the Stadia team. Because of the similarities in their technology stack with Stadia, I was asked to help them create some docs for their launch. 
 
 These docs have been updated since I last worked on them, but the [Quickstart](https://cloud.google.com/immersive-stream/xr/docs/quickstart) and [Overview](https://cloud.google.com/immersive-stream/xr/docs/concept) pages are pretty close to what they looked like at launch. 
-
-**Screenshot:**
-![Immersive Stream](./images/goog.png)
 
 ## Sample 3: This website
 
