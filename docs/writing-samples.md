@@ -12,7 +12,7 @@ Unfortunately, you won't find any work from my time on [Google Stadia](https://s
 
 ## Sample 1: Kameleoon developer docs
 
-My most current work is on the [Kameleoon Developer Documentation](https://developers.kameleoon.com/).
+My most recent work is from my current role working on the [Kameleoon Developer Documentation](https://developers.kameleoon.com/).
 
 **Audience**: Web and mobile app developers 
 
