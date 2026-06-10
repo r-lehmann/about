@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Intro
 
-Welcome to my site! I'm a technical writer with more than 15 years of experience writing highly technical software documentation and leading technical writing teams. 
+Welcome to my portfolio site. I'm a technical writer with 20 years of experience writing highly technical software documentation and leading technical writing teams. 
 
 ##  A brief history of my career
 
-After high school, I had no intention of becoming a writer. None. I started out at Queen's University as a Physics major. However, I was was soon drawn into the world of coding, neural networks, and finite-state automata. Coding was fun, but it was the math and learning how computers worked that I really loved. I always liked writing, and I was pretty good at it, so I took a few writing classes along the way too.
+After high school, I had no intention of becoming a writer. None. I started out at Queen's University as a Physics major. However, a first year programming course drew me into the world of coding, algorithms, neural networks, and finite-state automata. Coding was fun, but it was the math and learning how things worked that I really loved. I always liked writing and I was pretty good at it, so I took a few writing classes along the way too.
 
 It wasn't until I started getting close to graduation and looking at jobs that I stumbled upon a role called Technical Writer, and thought, "that might be fun". Nearly twenty years later, I still love what I do. I've created documentation to help developers create smartphone apps at BlackBerry, helped engineers build fully automated warehouses at Dematic, and helped game developers stream interactive video games and AR/VR streams at 4K at Google. 
 
