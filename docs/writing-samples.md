@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Writing samples
@@ -10,7 +10,7 @@ Here a few examples of technical writing projects that I've worked on.
 Unfortunately, you won't find any work from my time on [Google Stadia](https://stadia.google.com/gg/). It was a incredibly fun project, and I'm very proud of a lot of the work I did there. However, the Stadia documentation was never made public, so I can't share it. Similarly, the work I did at Dematic was very impactful to the organization, but as I worked on internal documentation and training, I can't share that either. I worked on some pretty cool stuff at BlackBerry, but that's a long time ago now.
 :::
 
-## Sample 1: Kameleoon developer docs
+## Sample 2: Kameleoon developer docs
 
 My most recent work is from my current role working on the [Kameleoon Developer Documentation](https://developers.kameleoon.com/).
 
@@ -25,13 +25,14 @@ My most recent work is from my current role working on the [Kameleoon Developer 
 I'm currently working on revamping and rewriting a lot of legacy content. But those two pages are new content that I've created from scratch. The homepage is an example of the care I put into page design and the feature experimentation demonstrates the importance I place on getting developers to sucessfully build code as early on in their experience as possible.
 
 
-## Sample 2: Immersive Stream for XR from Google Cloud
+## Sample 3: Immersive Stream for XR from Google Cloud
+
 
 **Audience**: AR/VR developers 
 
 **Pages**: 
-* [Quickstart](https://cloud.google.com/immersive-stream/xr/docs/quickstart) 
-* [Overview](https://cloud.google.com/immersive-stream/xr/docs/concept)
+* [Quickstart](https://cloud.google.com/immersive-stream/xr/docs/quickstart) (Requires Google Developer login)
+* [Overview](https://cloud.google.com/immersive-stream/xr/docs/concept) (Requires Google Developer login)
 
 **Summary of my contributions**: 
 
