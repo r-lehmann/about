@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Intro",
-  "description": "Welcome to my site! I'm a technical writer with more than 15 years of experience writing highly technical software documentation and leading technical writing teams.",
+  "description": "Welcome to my portfolio site. I'm a technical writer with 20 years of experience writing highly technical software documentation and leading technical writing teams.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Writing samples",
-    "permalink": "/docs/writing-samples"
+    "title": "Resume",
+    "permalink": "/docs/resume"
   }
 }

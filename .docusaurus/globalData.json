@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "resume",
+              "path": "/docs/resume",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "writing-samples",
               "path": "/docs/writing-samples",
               "sidebar": "tutorialSidebar"

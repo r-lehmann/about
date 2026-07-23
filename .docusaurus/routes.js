@@ -3,26 +3,72 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
+    path: '/blog',
+    component: ComponentCreator('/blog', '98b'),
+    exact: true
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '2b9'),
+    component: ComponentCreator('/docs', 'f7b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3df'),
+        component: ComponentCreator('/docs', '657'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '586'),
+            component: ComponentCreator('/docs', 'bd0'),
             routes: [
               {
                 path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                component: ComponentCreator('/docs/intro', '61d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/resume',
+                component: ComponentCreator('/docs/resume', 'df6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/writing-samples',
-                component: ComponentCreator('/docs/writing-samples', 'e3d'),
+                component: ComponentCreator('/docs/writing-samples', 'd51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -34,7 +80,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a9e'),
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {
