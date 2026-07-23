@@ -15,7 +15,10 @@ sidebar_position: 2
 
 _APRIL 2023 - PRESENT_
 
-* 
+* Wrote and reviewed  documentation for AI-based security features, including SAST false positive detection, vulnerability resolution, and secret push protection.
+* Restructured and improved security risk management documentation, contributing to a 44% reduction in support escalation rates.
+* Developed new GitLab Duo and agentic workflows with Claude to identify ambiguous content and improve readability of the docs for AI agents.
+* Consistenty ranked in the top 10% reviewers (merge requests per day) in the company.
 
 _Key technologies: Git, Claude Code, GitLab Duo, Hugo, Markdown_
 
@@ -23,9 +26,9 @@ _Key technologies: Git, Claude Code, GitLab Duo, Hugo, Markdown_
 
 _APRIL 2023 - PRESENT_
 
-* Built and maitained a new documentation website in Docusaurus.
+* Built a new end user documentation website in Docusaurus.
 * Established standardized processes and templates, conducted information architecture reviews, and developed style guides, significantly improving the overall quality and consistency of documentation.
-* Led training, hiring, and mentorship initiatives for new writers, fostering a high-performing and collaborative team environment. 
+* Hired, trained, and mentored new and existing technical writers, fostering a high-performing and collaborative team environment.
 
 _Key technologies: A/B testing, Swagger, JavaScript, Go, Python, Git, Docusaurus, Markdown_
 
