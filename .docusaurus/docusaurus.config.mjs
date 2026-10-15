@@ -6,13 +6,13 @@
 export default {
   "title": "Ryan Lehmann",
   "tagline": "Write for coders and code for writers",
-  "favicon": "/static/img/favicon.png",
+  "favicon": "img/favicon.ico",
   "url": "https://r-lehmann.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/about/",
   "organizationName": "r-lehmann",
-  "projectName": "r-lehmann.github.io",
+  "projectName": "about",
   "trailingSlash": false,
-  "deploymentBranch": "main",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",

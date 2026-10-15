@@ -10,20 +10,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Ryan Lehmann',
   tagline: 'Write for coders and code for writers',
-  favicon: '/static/img/favicon.png',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://r-lehmann.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/about/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'r-lehmann', // Usually your GitHub org/user name.
-  projectName: 'r-lehmann.github.io', // Usually your repo name.
+  projectName: 'about', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: "main",
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

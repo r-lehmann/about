@@ -1,28 +1,28 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/about/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/about/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/about/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "resume",
-              "path": "/docs/resume",
+              "path": "/about/docs/resume",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "writing-samples",
-              "path": "/docs/writing-samples",
+              "path": "/about/docs/writing-samples",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -30,7 +30,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/about/docs/intro",
                 "label": "intro"
               }
             }

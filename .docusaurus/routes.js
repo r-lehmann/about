@@ -3,37 +3,37 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '98b'),
+    path: '/about/blog',
+    component: ComponentCreator('/about/blog', 'd65'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'f7b'),
+    path: '/about/docs',
+    component: ComponentCreator('/about/docs', '000'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '657'),
+        path: '/about/docs',
+        component: ComponentCreator('/about/docs', '826'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'bd0'),
+            path: '/about/docs',
+            component: ComponentCreator('/about/docs', 'fe8'),
             routes: [
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/about/docs/intro',
+                component: ComponentCreator('/about/docs/intro', '6dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/resume',
-                component: ComponentCreator('/docs/resume', 'df6'),
+                path: '/about/docs/resume',
+                component: ComponentCreator('/about/docs/resume', '73f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/writing-samples',
-                component: ComponentCreator('/docs/writing-samples', 'd51'),
+                path: '/about/docs/writing-samples',
+                component: ComponentCreator('/about/docs/writing-samples', '6bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -44,8 +44,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/about/',
+    component: ComponentCreator('/about/', '402'),
     exact: true
   },
   {

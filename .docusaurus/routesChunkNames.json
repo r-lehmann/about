@@ -1,39 +1,39 @@
 {
-  "/blog-98b": {
+  "/about/blog-d65": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [],
-    "__props": "c15d9823"
+    "__props": "15a8c848"
   },
-  "/docs-f7b": {
+  "/about/docs-000": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-657": {
+  "/about/docs-826": {
     "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__props": "bc6c49cd"
   },
-  "/docs-bd0": {
+  "/about/docs-fe8": {
     "__comp": "a94703ab"
   },
-  "/docs/intro-61d": {
+  "/about/docs/intro-6dd": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/resume-df6": {
+  "/about/docs/resume-73f": {
     "__comp": "17896441",
     "content": "62f03775"
   },
-  "/docs/writing-samples-d51": {
+  "/about/docs/writing-samples-6bb": {
     "__comp": "17896441",
     "content": "e66ac612"
   },
-  "/-2e1": {
+  "/about/-402": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"
